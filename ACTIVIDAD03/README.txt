@@ -28,7 +28,7 @@ newdataTest = {0:['MILK','BREAD','BISCUIT'],
               18:['BREAD','COFFEE','STEVIA'],
               19:['TEA','MILK','COFFEE','CORNFLAKES']}
               
-############################################################ itemsets frecuentes min_support = 0.2 ########################################################
+############################################################ itemsets frecuentes min_support = 0.1 ########################################################
 1 ['BISCUIT']
 soporte  0.35
 
