@@ -3,7 +3,7 @@ para mostrar los resultados del apriori se usan 2 data set mas ligeros:
 - dataTest : ejemplo sacado de internet (esta comentado)
 - newdataTest : ejemplo con el que se trabajo en clases para probar la libreria apriori (SE USA PARA EJEMPLO)
 
-el modulo get_frequent_itemsets recibe como primer parametro la lista de itemset (dataset) en forma de ficcionario por lo que 
+el modulo get_frequent_itemsets recibe como primer parametro la lista de itemsetS (dataset) en forma de Diccionario por lo que 
 el dataset que se uso en clases se modifico a un diccionario
 
 dataset de prueba
